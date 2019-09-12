@@ -1,0 +1,9 @@
+C:\Users\B\RiderProjects\Calculator\CalculatorApp\bin\Debug\netcoreapp2.2\CalculatorApp.deps.json
+C:\Users\B\RiderProjects\Calculator\CalculatorApp\bin\Debug\netcoreapp2.2\CalculatorApp.dll
+C:\Users\B\RiderProjects\Calculator\CalculatorApp\bin\Debug\netcoreapp2.2\CalculatorApp.pdb
+C:\Users\B\RiderProjects\Calculator\CalculatorApp\obj\Debug\netcoreapp2.2\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\B\RiderProjects\Calculator\CalculatorApp\obj\Debug\netcoreapp2.2\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\B\RiderProjects\Calculator\CalculatorApp\obj\Debug\netcoreapp2.2\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\B\RiderProjects\Calculator\CalculatorApp\obj\Debug\netcoreapp2.2\CalculatorApp.AssemblyInfo.cs
+C:\Users\B\RiderProjects\Calculator\CalculatorApp\obj\Debug\netcoreapp2.2\CalculatorApp.dll
+C:\Users\B\RiderProjects\Calculator\CalculatorApp\obj\Debug\netcoreapp2.2\CalculatorApp.pdb
